@@ -1,38 +1,27 @@
 ## Welcome to My Project on Fashion Tendency in China
 
-
 ![clothes categories](https://user-images.githubusercontent.com/65639094/101719979-7d6e5e80-3a72-11eb-8487-a68404f8a80f.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The picture shows the ratio on clothes categories for my 3080 data. 
 
-### Markdown
+![histogram for price](https://user-images.githubusercontent.com/65639094/101719983-7d6e5e80-3a72-11eb-92cf-9b62d82e740d.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The histogram show the price range for 3080 data. The price for a lot of clothes are between 50 to 75 yuan. 
 
-```markdown
-Syntax highlighted code block
+![price vs clothes categories](https://user-images.githubusercontent.com/65639094/101719985-7d6e5e80-3a72-11eb-8b39-5a01ac63764d.png)
 
-# Header 1
-## Header 2
-### Header 3
+After we categories the price, we find the bottoming shirt is relatively cheaper than others. The outwears usually have high price. 
 
-- Bulleted
-- List
+![color](https://user-images.githubusercontent.com/65639094/101719980-7d6e5e80-3a72-11eb-9615-92e9ad971dc7.png)
 
-1. Numbered
-2. List
+It seems that white is the most popular color this year. 
 
-**Bold** and _Italic_ and `Code` text
+![favoriate style](https://user-images.githubusercontent.com/65639094/101719981-7d6e5e80-3a72-11eb-8e2b-71e7aec346ad.png)
 
-[Link](url) and ![Image](src)
-```
+The graph shows korean style is most popular style right now. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![materials](https://user-images.githubusercontent.com/65639094/101719984-7d6e5e80-3a72-11eb-9fba-5ac0e09fb03e.png)
+A lot of people prefer Chiffon for clothes' material. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xueqi-zhou/dsfinal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
