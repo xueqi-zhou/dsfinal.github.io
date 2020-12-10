@@ -1,6 +1,7 @@
 ## Welcome to My Project on Fashion Tendency in China
 
 
+![clothes categories](https://user-images.githubusercontent.com/65639094/101719979-7d6e5e80-3a72-11eb-8487-a68404f8a80f.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
